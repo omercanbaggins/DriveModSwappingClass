@@ -16,3 +16,5 @@ other takes enum to initiates profile mod
 
 this functions can be bind to arbitrary controller keys
 according to events and "if" statements And electrical engineers can use their opencv code or listen controller key to steering/throttle
+
+Library is so basic and easy to write but it is useful and works!
